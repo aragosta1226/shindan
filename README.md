@@ -17,4 +17,4 @@
 - jqueryのところでローカルでは動くのにGitHubでアップした後動かないエラーの対応で苦戦しました。
 
 ## URL
-https://aragosta1226.github.io/shindan/index.html
+https://aragosta1226.github.io/shindan/HTML/index.html
