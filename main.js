@@ -93,7 +93,7 @@ $(function() {
         let text = "普通です!";
         if(point > 4) {
             text = "プロです!"
-            window.location.href = "../sound/laroidance.mp4";
+            window.location.href = "laroidance.mp4";
         }
         if(point < 2) {
             text = "人生損してます。"
