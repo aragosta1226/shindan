@@ -16,4 +16,4 @@
 - ハマりポイントは、動画がダウンロード出来なかったので、一度iPhoneで録画して使いました。
 
 ## URL
-https://aragosta1226.github.io/shindan/
+https://aragosta1226.github.io/shindan/index.html/
